@@ -12,8 +12,8 @@ type Props = {
 
 export const UserProgress = ({
   activeCourse,
-  points,
   hearts,
+  points,
   hasActiveSubscription,
 }: Props) => {
   return (
